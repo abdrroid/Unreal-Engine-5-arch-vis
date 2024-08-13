@@ -5,13 +5,8 @@
 ;;
 MOD 02 - Computer Preparation;;
 2.1 - Setting Up your PC for VR Development ;https://player-vz-3d0da646-c57.tv.pandavideo.com.br/embed/?color=a34ada&v=d079730d-6d44-4c93-acb2-04fa667cb19f;
-"2.2 - Install Android Studio for UE 5.3 or higher 
-
-ENG - If you are using the new Unreal version 5.3, follow the instructions in the PDF that you can download in the link below. After that you can skip to the class 2.4. If you are using older Unreal versions (5.2, 5.1, ...) continue watching the next class.
-PTBR - Se você está usando a versão 5.3 da Unreal, siga as instruções dentro do PDF que está no link abaixo. FEito isso você pode pular para a aula 2.4. Se está usando uma versão mais antiga (5.2, 5.1, ...) continue seguindo as aulas normalmente.
-
-";;https://cdn.areademembros.com/file/download/c3FjLlVMZEszaXZwdGc1bmtrRzZWeHBiRllRSHRRZ2JMaGJOVW10c1ZoZ2QvZWJndnFyLzMyMDJfbnZwYW5nZmF2Lw%3D%3D?test=1&ts=1723468539&uptkn=4655a338228ce6bf1d6e4082972e19e9&name=AndroidStudio+for+UE5.3&drm=OjppYnhyb25tZWxaIGV2eG5vaG9O
-;;https://cdn.areademembros.com/file/download/c3FjLnRkemMwclFCdWxtSDNvc1QyWlVhRDQ2ZXExUUtHVXVpQ1UyQnJ0RnEvZWJndnFyLzMyMDJfbnZwYW5nZmF2Lw%3D%3D?test=1&ts=1723468539&uptkn=4655a338228ce6bf1d6e4082972e19e9&name=AndroidStudio+for+UE5.3+PTBR&drm=OjppYnhyb25tZWxaIGV2eG5vaG9O
+2.2 - Install Android Studio for UE 5.3 or higher ;https://cdn.areademembros.com/file/download/c3FjLlVMZEszaXZwdGc1bmtrRzZWeHBiRllRSHRRZ2JMaGJOVW10c1ZoZ2QvZWJndnFyLzMyMDJfbnZwYW5nZmF2Lw%3D%3D?test=1&ts=1723468539&uptkn=4655a338228ce6bf1d6e4082972e19e9&name=AndroidStudio+for+UE5.3&drm=OjppYnhyb25tZWxaIGV2eG5vaG9O;https://cdn.areademembros.com/file/download/c3FjLlVMZEszaXZwdGc1bmtrRzZWeHBiRllRSHRRZ2JMaGJOVW10c1ZoZ2QvZWJndnFyLzMyMDJfbnZwYW5nZmF2Lw%3D%3D?test=1&ts=1723468539&uptkn=4655a338228ce6bf1d6e4082972e19e9&name=AndroidStudio+for+UE5.3&drm=OjppYnhyb25tZWxaIGV2eG5vaG9O
+;https://cdn.areademembros.com/file/download/c3FjLnRkemMwclFCdWxtSDNvc1QyWlVhRDQ2ZXExUUtHVXVpQ1UyQnJ0RnEvZWJndnFyLzMyMDJfbnZwYW5nZmF2Lw%3D%3D?test=1&ts=1723468539&uptkn=4655a338228ce6bf1d6e4082972e19e9&name=AndroidStudio+for+UE5.3+PTBR&drm=OjppYnhyb25tZWxaIGV2eG5vaG9O;https://cdn.areademembros.com/file/download/c3FjLnRkemMwclFCdWxtSDNvc1QyWlVhRDQ2ZXExUUtHVXVpQ1UyQnJ0RnEvZWJndnFyLzMyMDJfbnZwYW5nZmF2Lw%3D%3D?test=1&ts=1723468539&uptkn=4655a338228ce6bf1d6e4082972e19e9&name=AndroidStudio+for+UE5.3+PTBR&drm=OjppYnhyb25tZWxaIGV2eG5vaG9O
 2.2.1 - Install Android Studio for UE 5.1 or 5.2 ;https://player-vz-3d0da646-c57.tv.pandavideo.com.br/embed/?color=a34ada&v=77de7a1e-bc65-4e80-9f91-6596893bfa2f;https://docs.unrealengine.com/5.0/en-US/how-to-set-up-android-sdk-and-ndk-for-your-unreal-engine-development-environment/
 2.3 - Setting Up Unreal and Install Java ;https://player-vz-3d0da646-c57.tv.pandavideo.com.br/embed/?color=a34ada&v=7e00ffc3-75d0-40f5-bf2c-22ba44b9de0e;https://cdn.areademembros.com/file/download/c3FjLjBjY2xiZkNjS1pyY0huZUxkS2pMRU1oVEtBQ01NUjh3YXBWZVpTUE0vZWJndnFyLzMyMDJfbnZwYW5nZmF2Lw%3D%3D?test=1&ts=1723536554&uptkn=4655a338228ce6bf1d6e4082972e19e9&name=Warning+-+instructions&drm=OjppYnhyb25tZWxaIGV2eG5vaG9O
 ;;https://www.java.com/download/ie_manual.jsp
