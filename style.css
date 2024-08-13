@@ -110,3 +110,8 @@ footer {
         font-size: 16px; /* Увеличьте размер шрифта для более крупных экранов */
     }
 }
+
+
+.tableThTitle {
+    text-align: center;
+}
