@@ -121,6 +121,10 @@ footer {
     transition: .1s ease-in-out;
 }
 
+.justAbutton a {
+    color: #333;
+}
+
 .justAbutton:hover {
     transition: .2s ease-in-out;
     background: rgb(240, 240, 240);
